@@ -26,12 +26,7 @@
 		list-style: none;
 	}
 
-	ol {
-		
-		list-style:none;
-		padding-left:none;
-		
-	}
+	/
 
 	blockquote, q {
 		quotes: none;
@@ -2337,9 +2332,9 @@
 /* List */
 
 	ol {
-		list-style: decimal;
+		
 		margin: 0 0 2em 0;
-		padding-left: 1.25em;
+		
 	}
 
 		ol li {
