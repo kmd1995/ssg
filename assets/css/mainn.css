@@ -3699,6 +3699,7 @@
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
 			color: #ffffff;
 			padding-top:10px;
+			background-color:mediumseagreen;
 		}
 
 		#footer header p {
