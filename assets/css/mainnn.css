@@ -3129,6 +3129,11 @@ input, select, textarea {
 			body {
 				min-width: 320px;
 			}
+			
+			h1.mod{
+				font-size: 20px;
+		
+			}
 
 			h2 {
 				font-size: 1.25em;
@@ -3264,6 +3269,7 @@ input, select, textarea {
 
 					#banner .inner p {
 						text-align: center;
+						font-size:13px;
 					}
 
 					#banner .inner br {
