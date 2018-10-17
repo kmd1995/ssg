@@ -148,6 +148,12 @@ input, select, textarea {
 		
 		
 	}
+	
+	h3.linked{
+			
+		border-bottom: dotted 1px #a5d8c7;
+		
+	}
 
 	h2 {
 		font-size: 1.5em;
