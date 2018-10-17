@@ -149,8 +149,8 @@ input, select, textarea {
 		
 	}
 	
-	h3.linked:after{
-		content: "";
+	h3.linked{
+		
 		display:block;
 		margin:0 auto;
 		width:50%;
