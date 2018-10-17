@@ -149,9 +149,13 @@ input, select, textarea {
 		
 	}
 	
-	h3.linked{
-			
+	h3.linked:after{
+		content: "";
+		display:block;
+		margin:0 auto;
+		width:50%;
 		border-bottom: dotted 1px #a5d8c7;
+		
 		
 	}
 
